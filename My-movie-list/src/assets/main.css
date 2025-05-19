@@ -1,0 +1,38 @@
+@import './base.css';
+
+#app {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  font-weight: normal;
+}
+
+/* Movie list specific styles */
+#movies {
+  margin: 0;
+  padding: 0;
+}
+
+#movies > li {
+  list-style: none;
+  background-color: #eee;
+  margin: 5px;
+  padding: 20px;
+  box-shadow: 0 0 5px #999;
+  position: relative;
+}
+
+#movies > li > img {
+  height: 25px;
+  margin-left: 5px;
+}
+
+#movies > li > img:not(.delete-movie-icon) {
+  float: right;
+}
+
+.delete-movie-icon {
+  cursor: pointer;
+  float: right;
+  margin-left: 15px;
+}
