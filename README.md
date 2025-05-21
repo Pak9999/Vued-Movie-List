@@ -1,6 +1,6 @@
 # Vued-Movie-List
 
-![Vue Movie List App](My-movie-list/public/PBucket.png)
+<img src="My-movie-list/public/PBucket.png" alt="PopCorn" width="100"/>
 
 ## Prerequisits:
 
