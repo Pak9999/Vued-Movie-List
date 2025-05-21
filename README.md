@@ -20,7 +20,8 @@
 
 1. Clone the repository:
 ```
-git clone https://github.com/yourusername/Vued-Movie-List.git
+git clone https://github.com/Pak9999/Vued-Movie-List.git
+
 cd Vued-Movie-List/My-movie-list
 ```
 
